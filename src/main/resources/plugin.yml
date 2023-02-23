@@ -1,0 +1,5 @@
+name: Soupcore
+version: '${project.version}'
+main: com.ab.soupcore.Soupcore
+authors: [ AB987 ]
+description: Soup PvP core
