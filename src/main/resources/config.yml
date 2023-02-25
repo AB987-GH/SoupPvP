@@ -1,0 +1,18 @@
+# MySQL Connection Information
+host:
+port: 3306
+database:
+username:
+password:
+
+# General Messages
+killer: '&eYou were given &65xp &eand &6$10 &efor killing &6<killed>'
+killed: '&eYou were killed by &6<killed>'
+ks-broken-broadcast: '&a&lKillstreak Ended! &e<killer> &ahas ended the &e<ks> &akillstreak of &a<killed>'
+bounty-sender: '&eYou have placed a bounty for &a$<money> &eon &a<target>'
+bounty-target: '&a<sender> &ehas placed a &e&lbounty &eon you for &a$<money>'
+bounty-broadcast: '&6&lBounty &8> &6<sender> &eplaced a bounty on &6<target> &efor &6$<money>'
+
+# Ability Messages
+archer:
+  hs-target: '&a&lSniped! &6<shooter> &ehit a &6&lheadshot &eon you dealing &67.5 hearts&e!'
