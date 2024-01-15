@@ -12,8 +12,8 @@ import com.ab.soupcore.SoupPlayer;
 
 
 
-public class KillDeathListener extends JavaPlugin implements Listener {
-    private Soupcore main;
+public class KillDeathListener implements Listener {
+    private Soupcore main = Soupcore.getInstance();
 
     private SoupPlayer soupPlayer;
 
