@@ -10,5 +10,5 @@ Features considered for addition: Vault economy integration, Scoreboard display
 These will most likely be added, assuming I can find time and motivation to implement them.
 
 ## Usage
-It should work as-is, but you're always welcome to fork it and add whatever features you like. Using it as it is, it will keep track of kills and deaths, as well as allow for instant soup eating which heals 3.5 hearts.
+It should work as-is, but you're always welcome to fork it and add whatever features you like. Using it as it is, it will keep track of kills, deaths, and killstreaks and allow for instant soup eating, which heals 3.5 hearts.
 
