@@ -6,7 +6,7 @@ This is an unfinished SoupPvP plugin I worked on in the past. It's designed to b
 ## Features
 This plugin uses a MySQL database to store player information, including kills, deaths, killstreak (and killstreak records), etc.
 
-Features considered for addition: Vault economy integration, Scoreboard display
+Features considered for addition: Vault economy integration, Scoreboard display.
 Don't count on these being added, it's probably more reliable to add them yourselves as the need for this project was abandoned, so I decided to make the WIP public
 
 ## Usage
