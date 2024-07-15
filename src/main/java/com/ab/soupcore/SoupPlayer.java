@@ -53,12 +53,12 @@ public class SoupPlayer {
                 totalXp = 0;
                 PreparedStatement statement1 = main.getDatabase().getConnection().prepareStatement("INSERT INTO stats (ID, KILLS, DEATHS, KS, BESTKS, LEVEL, PRESTIGE, CURRENTXP, TOTALXP) VALUES (" +
                         "'" + uuid + "'," +
-                        kills +
-                        deaths +
-                        bestKs +
-                        level +
-                        prestige +
-                        currentXp +
+                        kills + "," +
+                        deaths + "," +
+                        bestKs + "," +
+                        level + "," +
+                        prestige + "," +
+                        currentXp + "," +
                         totalXp + ");");
                 statement.executeUpdate();
 
